@@ -1,0 +1,12 @@
+Dataset
+The project uses the **SMS Spam Collection Dataset**.
+
+Due to large file size, the full dataset is not included in this repository.
+
+Download it from:
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+After Downloading:
+1. Extract the dataset  
+2. Rename the file to `dataset.csv`  
+3. Place it in the project folder
