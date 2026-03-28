@@ -31,7 +31,7 @@ Naive Bayes
 
 ##  Future Improvements
 - GUI
-- Web app# Vityarthi_projects_AiML
+- Web app
 
 ##  Author
 - Prakhar Kumar Sharma
